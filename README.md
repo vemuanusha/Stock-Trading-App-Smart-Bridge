@@ -159,3 +159,9 @@ app.get('*', (req, res) => res.sendFile(path.join(__dirname, 'public', 'index.ht
 placed after the API routes. Otherwise, simply run backend and frontend as two
 separate processes (as shown above) — this is the recommended setup for
 development.
+
+Frontend:
+(https://stock-trading-app-smart-bridge.vercel.app/)
+
+Backend:
+(https://stock-trading-app-smart-bridge.onrender.com)
